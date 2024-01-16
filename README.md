@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola!, Belén Robles 👋</h1>
+<h1 align="center">👋 Hola!, Soy Belén Robles 👋</h1>
 <h3>Soy una diseñadora gráfica con un enfoque en la comunicación visual. Creo soluciones creativas y mensajes claros y memorables que conectan con las personas a un nivel emocional, tengo experiencia en trabajar con muchas herramientas muy conocidas dentro del área del diseño gráfico, como pueden ser.</h3>
 
 - Adobe Illustrator.
