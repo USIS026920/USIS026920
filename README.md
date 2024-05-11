@@ -19,7 +19,7 @@
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy una diseñadora gráfica con un enfoque en la comunicación visual. Creo soluciones creativas y mensajes claros y memorables que conectan con las personas a un nivel emocional, tengo experiencia en trabajar con muchas herramientas muy conocidas dentro del área del diseño gráfico, como pueden ser.</h3>
 
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - Adobe Illustrator.
 - Adobe Photoshop.
