@@ -7,9 +7,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Transformando+ideas+en+arte+visual.&color=FFC0CB" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Transformando+ideas+en+arte+visual.&color=FFC0CB" alt="Typing SVG"/>
 </p>
 
 <div align="center">
@@ -31,7 +29,10 @@
 - Genially
 <hr>
 
-<img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> <h3 align="left">✨Software:</h3>
+<h3>
+  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px" alt="Software Icon"> ✨Software:
+</h3>
+
 <p align="left"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -48,6 +49,8 @@
 <h3 align="left">✨Mi Portafolio:</h3>
 
 [Mi portafolio](https://belabyrobles.com/)
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
 
