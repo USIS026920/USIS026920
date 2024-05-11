@@ -1,12 +1,25 @@
-<h1 align="center">👋 Hola!, Soy Belén Robles 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="Wave"/> ¡Hola!, Soy Belén Robles
+</h1>
+
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Transformando+ideas+en+arte+visual.&color=FFC0CB)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Transformando+ideas+en+arte+visual.&color=FFC0CB" alt="Typing SVG"/>
+  </a>
+</p>
 
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
 <hr>
-<h3>Soy una diseñadora gráfica con un enfoque en la comunicación visual. Creo soluciones creativas y mensajes claros y memorables que conectan con las personas a un nivel emocional, tengo experiencia en trabajar con muchas herramientas muy conocidas dentro del área del diseño gráfico, como pueden ser.</h3>
+
+<h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy una diseñadora gráfica con un enfoque en la comunicación visual. Creo soluciones creativas y mensajes claros y memorables que conectan con las personas a un nivel emocional, tengo experiencia en trabajar con muchas herramientas muy conocidas dentro del área del diseño gráfico, como pueden ser.</h3>
+
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - Adobe Illustrator.
 - Adobe Photoshop.
@@ -35,6 +48,8 @@
 <h3 align="left">✨Mi Portafolio:</h3>
 
 [Mi portafolio](https://belabyrobles.com/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
 
 <!--
 **USIS026920/USIS026920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
