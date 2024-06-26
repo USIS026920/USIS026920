@@ -13,6 +13,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
+
 <hr>
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy una diseñadora gráfica con un enfoque en la comunicación visual. Creo soluciones creativas y mensajes claros y memorables que conectan con las personas a un nivel emocional, tengo experiencia en trabajar con muchas herramientas muy conocidas dentro del área del diseño gráfico, como pueden ser.</h3>
@@ -27,11 +28,30 @@
 - Canva.
 - PowerPoint.
 - Genially
+
+<hr>
+
+<h3>✨ Sobre mí:</h3>
+Desde temprana edad, el arte y el diseño han sido mis mayores pasiones. Con varios proyectos en mi portafolio, me esfuerzo por mejorar mis habilidades y técnicas cada día. Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalmente.
+
+<hr>
+
+<h3>✨ Que me hace destacar como persona: </h3>
+- <strong>Pasión por la Creatividad:</strong> Constantemente actualizo mis habilidades para incorporar las últimas tendencias y técnicas del diseño gráfico, lo que me permite ofrecer soluciones innovadoras y creativas en cada proyecto.
+<br>
+- <strong>Precisión en Detalles:</strong> Mi enfoque en la precisión asegura que cada diseño no solo cumple con las expectativas sino que las supera, destacando por su calidad y unicidad.
+<br>
+- <strong>Colaboración Efectiva:</strong> Me apasiona colaborar en equipos de trabajos, creando un ambiente de trabajo enriquecedor donde las ideas fluyen y se transforman en resultados impactantes y efectivos.
+<br>
+
 <hr>
 
 <h3>
   <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px" alt="Software Icon"> ✨Software:
 </h3>
+
+Estas herramientas encapsulan mi competencia técnica en diversas áreas del diseño y la multimedia, permitiéndome entregar soluciones creativas y efectivas para cada proyecto.
+<br><br>
 
 <p align="left"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
