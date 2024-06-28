@@ -53,16 +53,61 @@ Desde temprana edad, el arte y el diseño han sido mis mayores pasiones. Con var
 Estas herramientas encapsulan mi competencia técnica en diversas áreas del diseño y la multimedia, permitiéndome entregar soluciones creativas y efectivas para cada proyecto.
 <br><br>
 
-<p align="left"> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://prezi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/USIS026920/USIS026920/assets/87837202/7ebece33-2807-4c29-bc9c-b9c993d82727" alt="Prezi" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/USIS026920/USIS026920/assets/87837202/ea4c0e28-14b5-40b0-a111-e786ebdf4301" alt="Canva" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://github.com/USIS026920/USIS026920/assets/87837202/79627a92-181e-460c-92fb-4839564c892c" alt="PowerPoint" width="40" height="40"/> </a>
-  <a href="https://www.genial.ly/" target="_blank" rel="noreferrer"> <img src="https://github.com/USIS026920/USIS026920/assets/87837202/4ab43ae2-8a6c-49ae-b631-05e0c9c89182" alt="Genially" width="40" height="40"/> </a>
-  </p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="60"/>
+        <br>Adobe Illustrator
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="60"/>
+        <br>Adobe Photoshop
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="60"/>
+        <br>Blender
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="60"/>
+        <br>Figma
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://prezi.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/USIS026920/USIS026920/assets/87837202/7ebece33-2807-4c29-bc9c-b9c993d82727" alt="Prezi" height="60"/>
+        <br>Prezi
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/USIS026920/USIS026920/assets/87837202/ea4c0e28-14b5-40b0-a111-e786ebdf4301" alt="Canva" height="60"/>
+        <br>Canva
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+        <img src="https://github.com/USIS026920/USIS026920/assets/87837202/79627a92-181e-460c-92fb-4839564c892c" alt="PowerPoint" width="40" height="40"/>
+        <br>PowerPoint
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.genial.ly/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/USIS026920/USIS026920/assets/87837202/4ab43ae2-8a6c-49ae-b631-05e0c9c89182" alt="Genially" width="40" height="40"/>
+        <br>Genially
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
@@ -71,6 +116,19 @@ Estas herramientas encapsulan mi competencia técnica en diversas áreas del dis
 [Mi portafolio](https://belabyrobles.com/)
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+<hr>
+
+<h3>🌎 Contacto:</h3>
+
+<p>
+	<a href="mailto:abyrobles2129@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/USIS026920"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/bel%C3%A9n-robles-5b4400268/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
+
+<hr>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
 
